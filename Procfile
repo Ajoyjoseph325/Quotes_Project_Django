@@ -1,0 +1,1 @@
+web gunicorn Quotes_pr.wsgi:application --log-file -
